@@ -1,1 +1,1 @@
-Image Generation using Generative Adversarial Network
+# Image Generation using Generative Adversarial Network
